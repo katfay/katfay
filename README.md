@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning html5, CSS and javascript through SheCodes.io and Angela Yu's Udemy course
 - 💞️ I’m looking to collaborate on beginner front end web development projects
 - ＠ Tweet me @katfay_ 
-- 📝 Read my blog on Medium @katfay
+- 📝 Read my blog at https://medium.com/@katfay
 - 👩🏼‍💼 View my LinkedIn profile at www.linkedin.com/in/katfay
 
 <!---

@@ -2,10 +2,12 @@
 - 👀 I’m interested in travel, reading great stories, France, hiking, excellent coffee, Beethoven and snowboarding badly
 - 🌱 I’m currently learning html5, CSS and javascript through SheCodes.io and Angela Yu's Udemy course
 - 💞️ I’m looking to collaborate on beginner front end web development projects
-- 💼 In previous lives I have worked as a proofreader, project manager, teacher and lawyer
 - ＠ Tweet me @katfay_ and https://twitter.com/katfay_
 - 📝 Read my blog at https://medium.com/@katfay
 - 👩🏼‍💼 View my LinkedIn profile at www.linkedin.com/in/katfay
+- 🔗 what's the weather?🌧 WIP site at https://tubular-lily-2fbc73.netlify.app/
+- 🔗 boozefree🍺 WIP site at https://fascinating-concha-2903be.netlify.app/
+- 💼 In previous lives I have worked as a proofreader, project manager, teacher and lawyer, view my resumé at https://delicate-pie-72fa26.netlify.app/
 
 <!---
 katfay/katfay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

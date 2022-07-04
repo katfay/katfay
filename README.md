@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @katfay
 - 👀 I’m interested in travel, reading great stories, France, hiking, excellent coffee, Beethoven and snowboarding badly
 - 🌱 I’m currently learning front-end web development through SheCodes Pro
-- 💞️ I’m looking to collaborate on beginner front end web development projects
+- 💞️ I’m looking to collaborate on beginner front-end web development projects
 - ＠ Tweet me @katfay_ and https://twitter.com/katfay_
 - 📝 Read my blog at https://medium.com/@katfay
 - 👩🏼‍💼 View my LinkedIn profile at www.linkedin.com/in/katfay

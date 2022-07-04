@@ -6,7 +6,7 @@
 - 📝 Read my blog at https://medium.com/@katfay
 - 👩🏼‍💼 View my LinkedIn profile at www.linkedin.com/in/katfay
 - 🔗 what's the weather?🌧 WIP site at https://tubular-lily-2fbc73.netlify.app/
-- 🔗 boozefree🍺 WIP site at https://fascinating-concha-2903be.netlify.app/
+- 🔗 boozefree🍺 WIP site at https://fascinating-concha-2903be.netlify.app/baby-snakes
 - 💼 In previous lives I have worked as a proofreader, project manager, teacher and lawyer, view my resumé at https://delicate-pie-72fa26.netlify.app/
 
 <!---

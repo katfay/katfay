@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @katfay
 - 👀 I’m interested in travel, reading great stories, France, hiking, excellent coffee, Beethoven and snowboarding badly
-- 🌱 I’m currently learning html5, CSS and javascript through SheCodes.io and Angela Yu's Udemy course
+- 🌱 I’m currently learning front-end web development through SheCodes Pro
 - 💞️ I’m looking to collaborate on beginner front end web development projects
 - ＠ Tweet me @katfay_ and https://twitter.com/katfay_
 - 📝 Read my blog at https://medium.com/@katfay
